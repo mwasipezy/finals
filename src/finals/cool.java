@@ -6,5 +6,5 @@ public class cool {
 		// TODO Auto-generated method stub
 		System.out.print("hello");
 	}
-}
+
 }
